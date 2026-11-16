@@ -1,2 +1,2 @@
 nest js
-next js
+next js install 
